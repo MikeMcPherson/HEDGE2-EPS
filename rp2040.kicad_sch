@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "af8eacfd-6258-40d4-8be3-a517293fdff8")
+	(paper "USLedger")
+	(title_block
+		(title "HEDGE2 EPS")
+		(date "2025-06-27")
+		(rev "V0.8")
+		(company "University of Virginia")
+		(comment 1 "Department of Mechanical and Aerospace Engineering")
+	)
+	(lib_symbols)
+)
