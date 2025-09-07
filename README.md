@@ -1,1 +1,1 @@
-# HEDGE2-Avionics
+# HEDGE2-EPS
