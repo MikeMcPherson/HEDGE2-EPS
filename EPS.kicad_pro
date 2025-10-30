@@ -743,10 +743,16 @@
           "label": "PARTREV",
           "name": "PARTREV",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Simulation Data",
+          "name": "Simulation Data",
+          "show": false
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
@@ -794,36 +800,28 @@
   },
   "sheets": [
     [
-      "ace5002f-3cbc-4a0a-869b-0e31ebd905b7",
+      "7b605902-d0e0-4baa-b797-611cfe27637f",
       "Root"
     ],
     [
-      "893aef5a-59ff-410b-9a71-9930aaf04e9f",
-      "OBC"
+      "8396a4b2-0cce-4978-8662-437d163a7808",
+      "Control"
     ],
     [
-      "617751c8-9e63-43a2-807c-be0203e52cd6",
-      "COMM"
+      "b44ddf7f-94f6-4f1d-9f50-77031fdeb0c9",
+      "Power Input"
     ],
     [
-      "662a4538-a857-4d47-9892-e46e278fb04f",
-      "HEDGE2-EPS"
+      "17bb1895-5a49-4df8-a84f-9c2737cdfc7b",
+      "Power Conversion"
     ],
     [
-      "740c0668-bfac-47e0-b7b8-de442260ca55",
-      "INA260_OEM719"
+      "b1e27a89-2470-463f-987d-8dd5d80a1a42",
+      "Power Output"
     ],
     [
-      "d3868309-a946-47d2-bb65-3f159979e5fb",
-      "TCAN1046AVDYYRQ1"
-    ],
-    [
-      "9fa6cc5e-a76a-4d58-8af7-47af14171882",
-      "INA260_CM4"
-    ],
-    [
-      "e2cad078-3ca5-46c7-a65f-c1e6fb9d60cb",
-      "TPS543320"
+      "66850c0b-0984-482d-8867-bea587885772",
+      "Batteries"
     ]
   ],
   "text_variables": {}
