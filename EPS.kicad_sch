@@ -2967,6 +2967,322 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "HEDGE2:TC2050-IDC"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 19.05 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "TC2050-IDC"
+				(at 19.05 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "TC2050-IDC"
+				(at 19.05 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/51f607a36a24a0aceedaa5d6ebc30014.pdf"
+				(at 19.05 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Plug of nails cable"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 19.05 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Tag Connect"
+				(at 19.05 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "TC2050-IDC"
+				(at 19.05 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 19.05 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 19.05 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 19.05 -894.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 19.05 -994.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "TC2050-IDC_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 17.78 -12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 0 180)
+					(length 5.08)
+					(name "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -2.54 180)
+					(length 5.08)
+					(name "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -5.08 180)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -7.62 180)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -10.16 180)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "HEDGE2:WJ126V-5.0-2P"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3349,19 +3665,19 @@
 		)
 	)
 	(junction
-		(at 27.94 195.58)
+		(at 104.14 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92f7c81b-6c44-4f85-99d2-939ae17aba99")
 	)
 	(junction
-		(at 29.21 195.58)
+		(at 105.41 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9aeeb403-7c5e-4bcd-ad51-34408672d466")
 	)
 	(junction
-		(at 20.32 195.58)
+		(at 96.52 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2de72e8-b2d7-47dc-b970-babdccec16fd")
@@ -3860,7 +4176,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 193.04) (xy 34.29 195.58)
+			(xy 110.49 176.53) (xy 110.49 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3940,7 +4256,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 195.58) (xy 27.94 195.58)
+			(xy 96.52 179.07) (xy 104.14 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3950,7 +4266,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 186.69) (xy 29.21 195.58)
+			(xy 105.41 170.18) (xy 105.41 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4010,7 +4326,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 195.58) (xy 27.94 195.58)
+			(xy 105.41 179.07) (xy 104.14 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4020,7 +4336,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 193.04) (xy 20.32 195.58)
+			(xy 96.52 176.53) (xy 96.52 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4070,7 +4386,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 195.58) (xy 20.32 195.58)
+			(xy 92.71 179.07) (xy 96.52 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4150,7 +4466,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 195.58) (xy 29.21 195.58)
+			(xy 110.49 179.07) (xy 105.41 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4200,7 +4516,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 186.69) (xy 16.51 195.58)
+			(xy 92.71 170.18) (xy 92.71 179.07)
 		)
 		(stroke
 			(width 0)
@@ -5090,7 +5406,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 29.21 184.15 0)
+		(at 105.41 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5098,7 +5414,7 @@
 		(dnp no)
 		(uuid "0c3a5ede-fe3c-4481-9e16-b69056dd8a8b")
 		(property "Reference" "MH3"
-			(at 31.75 184.0738 0)
+			(at 107.95 167.5638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5107,7 +5423,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 31.75 185.2168 0)
+			(at 107.95 168.7068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,7 +5433,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 29.21 184.15 0)
+			(at 105.41 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +5442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.21 184.15 0)
+			(at 105.41 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5135,7 +5451,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 184.15 0)
+			(at 105.41 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5144,7 +5460,7 @@
 			)
 		)
 		(property "JLCPCB Part Number" ""
-			(at 29.21 184.15 0)
+			(at 105.41 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5153,7 +5469,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 29.21 184.15 0)
+			(at 105.41 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5162,7 +5478,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 29.21 184.15 0)
+			(at 105.41 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5190,7 +5506,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 16.51 184.15 0)
+		(at 92.71 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5198,7 +5514,7 @@
 		(dnp no)
 		(uuid "1999ff97-a3d9-4b10-9f4a-ac7e2f5d9a70")
 		(property "Reference" "MH1"
-			(at 19.05 184.0738 0)
+			(at 95.25 167.5638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5207,7 +5523,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 19.05 185.2168 0)
+			(at 95.25 168.7068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5217,7 +5533,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 16.51 184.15 0)
+			(at 92.71 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5226,7 +5542,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 16.51 184.15 0)
+			(at 92.71 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5235,7 +5551,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 16.51 184.15 0)
+			(at 92.71 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +5560,7 @@
 			)
 		)
 		(property "JLCPCB Part Number" ""
-			(at 16.51 184.15 0)
+			(at 92.71 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5253,7 +5569,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 16.51 184.15 0)
+			(at 92.71 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5262,7 +5578,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 16.51 184.15 0)
+			(at 92.71 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5283,6 +5599,170 @@
 			(project "HEDGE2-EPS"
 				(path "/ace5002f-3cbc-4a0a-869b-0e31ebd905b7/662a4538-a857-4d47-9892-e46e278fb04f"
 					(reference "MH9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "HEDGE2:TC2050-IDC")
+		(at 247.65 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d4a15f0-a4e7-4c3e-a8d0-1b69e3f28144")
+		(property "Reference" "J5"
+			(at 259.08 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TC2050-IDC"
+			(at 259.08 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TC2050-IDC"
+			(at 266.7 135.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/51f607a36a24a0aceedaa5d6ebc30014.pdf"
+			(at 266.7 235.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Plug of nails cable"
+			(at 247.65 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 266.7 435.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Tag Connect"
+			(at 266.7 535.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TC2050-IDC"
+			(at 266.7 635.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 266.7 735.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 266.7 835.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 266.7 935.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 266.7 1035.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "5f5d661c-0a0e-4ec2-993d-b1ed653ef063")
+		)
+		(pin "6"
+			(uuid "b2663cac-a54c-4bba-9731-6ba2d2ebe7a5")
+		)
+		(pin "1"
+			(uuid "331dcc8d-a3fd-4388-bc49-db33679c5ed3")
+		)
+		(pin "5"
+			(uuid "76836eee-30a9-4b62-bf81-8e3a5f78ad84")
+		)
+		(pin "4"
+			(uuid "6dbe0bc0-c88f-4602-98e9-127b71c2c8d7")
+		)
+		(pin "2"
+			(uuid "4c480918-7937-42c1-a6d5-ed082e1d4491")
+		)
+		(pin "3"
+			(uuid "58389b0e-3d37-4009-9021-aba80b136aa9")
+		)
+		(pin "8"
+			(uuid "ce26bf9d-0afb-4889-88a1-b0a6ff6d86b3")
+		)
+		(pin "7"
+			(uuid "05efc706-719a-4353-ac9e-5fe492da415e")
+		)
+		(pin "10"
+			(uuid "2e29ca99-a247-4fb9-8f77-f228226cf696")
+		)
+		(instances
+			(project "EPS"
+				(path "/7b605902-d0e0-4baa-b797-611cfe27637f"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -6528,7 +7008,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 27.94 195.58 0)
+		(at 104.14 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6537,7 +7017,7 @@
 		(fields_autoplaced yes)
 		(uuid "d19e911b-7053-4f2e-aac2-1302c3cf5f1f")
 		(property "Reference" "#PWR0105"
-			(at 27.94 201.93 0)
+			(at 104.14 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6546,7 +7026,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 27.94 200.66 0)
+			(at 104.14 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6554,7 +7034,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 195.58 0)
+			(at 104.14 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6563,7 +7043,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 195.58 0)
+			(at 104.14 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6572,7 +7052,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 27.94 195.58 0)
+			(at 104.14 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6600,7 +7080,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 34.29 190.5 0)
+		(at 110.49 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6608,7 +7088,7 @@
 		(dnp no)
 		(uuid "e5685bae-4a81-42d8-8305-5960561cc29e")
 		(property "Reference" "MH4"
-			(at 36.83 190.4238 0)
+			(at 113.03 173.9138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6617,7 +7097,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 36.83 191.5668 0)
+			(at 113.03 175.0568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6627,7 +7107,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 34.29 190.5 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6636,7 +7116,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 34.29 190.5 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6645,7 +7125,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 34.29 190.5 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6654,7 +7134,7 @@
 			)
 		)
 		(property "JLCPCB Part Number" ""
-			(at 34.29 190.5 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6663,7 +7143,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 34.29 190.5 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6672,7 +7152,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 34.29 190.5 0)
+			(at 110.49 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7054,7 +7534,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 20.32 190.5 0)
+		(at 96.52 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7062,7 +7542,7 @@
 		(dnp no)
 		(uuid "f9698c9f-751e-400e-9745-7ac1a077e3fc")
 		(property "Reference" "MH2"
-			(at 22.86 190.4238 0)
+			(at 99.06 173.9138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7071,7 +7551,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 22.86 191.5668 0)
+			(at 99.06 175.0568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7081,7 +7561,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 20.32 190.5 0)
+			(at 96.52 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7090,7 +7570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 20.32 190.5 0)
+			(at 96.52 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7099,7 +7579,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 20.32 190.5 0)
+			(at 96.52 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7108,7 +7588,7 @@
 			)
 		)
 		(property "JLCPCB Part Number" ""
-			(at 20.32 190.5 0)
+			(at 96.52 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7117,7 +7597,7 @@
 			)
 		)
 		(property "Field8" ""
-			(at 20.32 190.5 0)
+			(at 96.52 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7126,7 +7606,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" ""
-			(at 20.32 190.5 0)
+			(at 96.52 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7153,8 +7633,50 @@
 		)
 	)
 	(sheet
-		(at 203.2 125.73)
-		(size 40.64 36.195)
+		(at 103.505 77.47)
+		(size 31.115 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "17bb1895-5a49-4df8-a84f-9c2737cdfc7b")
+		(property "Sheetname" "Power Conversion"
+			(at 103.505 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powerConversion.kicad_sch"
+			(at 103.505 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EPS"
+				(path "/7b605902-d0e0-4baa-b797-611cfe27637f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 188.595 123.825)
+		(size 33.02 29.845)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7169,7 +7691,7 @@
 		)
 		(uuid "66850c0b-0984-482d-8867-bea587885772")
 		(property "Sheetname" "Batteries"
-			(at 203.2 125.0184 0)
+			(at 188.595 123.1134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7178,7 +7700,7 @@
 			)
 		)
 		(property "Sheetfile" "batteries.kicad_sch"
-			(at 203.2 162.5096 0)
+			(at 188.595 154.2546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7189,14 +7711,14 @@
 		(instances
 			(project "EPS"
 				(path "/7b605902-d0e0-4baa-b797-611cfe27637f"
-					(page "5")
+					(page "6")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 126.365 70.485)
-		(size 52.705 45.085)
+		(at 151.765 78.74)
+		(size 30.48 24.765)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7211,7 +7733,7 @@
 		)
 		(uuid "8396a4b2-0cce-4978-8662-437d163a7808")
 		(property "Sheetname" "Control"
-			(at 126.365 69.7734 0)
+			(at 151.765 78.0284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7220,7 +7742,7 @@
 			)
 		)
 		(property "Sheetfile" "control.kicad_sch"
-			(at 126.365 116.1546 0)
+			(at 151.765 104.0896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7238,7 +7760,7 @@
 	)
 	(sheet
 		(at 128.27 124.46)
-		(size 45.085 43.815)
+		(size 32.385 29.21)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7262,7 +7784,7 @@
 			)
 		)
 		(property "Sheetfile" "powerOutput.kicad_sch"
-			(at 128.27 168.8596 0)
+			(at 128.27 154.2546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7273,14 +7795,14 @@
 		(instances
 			(project "EPS"
 				(path "/7b605902-d0e0-4baa-b797-611cfe27637f"
-					(page "4")
+					(page "5")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 200.66 68.58)
-		(size 48.26 43.815)
+		(at 203.835 78.74)
+		(size 29.845 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7294,7 +7816,7 @@
 		)
 		(uuid "b44ddf7f-94f6-4f1d-9f50-77031fdeb0c9")
 		(property "Sheetname" "Power Input"
-			(at 200.66 67.8684 0)
+			(at 203.835 78.0284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7825,7 @@
 			)
 		)
 		(property "Sheetfile" "powerInput.kicad_sch"
-			(at 200.787 113.03 0)
+			(at 202.692 106.553 0)
 			(effects
 				(font
 					(size 1.27 1.27)

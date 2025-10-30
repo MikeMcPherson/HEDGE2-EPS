@@ -752,7 +752,7 @@
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
@@ -810,6 +810,10 @@
     [
       "b44ddf7f-94f6-4f1d-9f50-77031fdeb0c9",
       "Power Input"
+    ],
+    [
+      "17bb1895-5a49-4df8-a84f-9c2737cdfc7b",
+      "Power Conversion"
     ],
     [
       "b1e27a89-2470-463f-987d-8dd5d80a1a42",
