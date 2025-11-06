@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "HEDGE2 EPS")
-		(date "2025-10-12")
+		(date "2025-10-30")
 		(rev "V0.8")
 		(company "University of Virginia")
 		(comment 1 "Department of Mechanical and Aerospace Engineering")
@@ -6580,7 +6580,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 130.81) (xy 261.62 130.81)
+			(xy 264.16 130.81) (xy 261.62 130.81)
 		)
 		(stroke
 			(width 0)
@@ -7898,16 +7898,6 @@
 		)
 		(uuid "5d0fa262-69c4-4c7a-a301-23f739c6cc1a")
 	)
-	(label "CANL1"
-		(at 265.43 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6832e692-062d-4d78-a6af-eec2aee7f328")
-	)
 	(label "PAY1_RO"
 		(at 158.75 151.13 0)
 		(effects
@@ -7987,16 +7977,6 @@
 			(justify left bottom)
 		)
 		(uuid "a47fdfcb-2b9d-408d-bf48-583f416c285a")
-	)
-	(label "CANH1"
-		(at 264.16 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bba3f06b-0446-4ba9-80c9-f5601cd1025a")
 	)
 	(label "PAY1_DI"
 		(at 213.36 153.67 180)
@@ -8083,28 +8063,6 @@
 		(uuid "2b04ef4c-c793-4b17-ac6a-b7f9bc64e916")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 170.3228 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_D-"
-		(shape input)
-		(at 161.29 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2dd42462-ad88-4f6f-9078-ea22af641d87")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.8952 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8246,28 +8204,6 @@
 			)
 		)
 	)
-	(global_label "USB_D+"
-		(shape input)
-		(at 161.29 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c5d99ec1-5096-4087-9795-7e785b9da04d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.8952 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STATUS2"
 		(shape input)
 		(at 157.48 130.81 0)
@@ -8334,49 +8270,104 @@
 			)
 		)
 	)
-	(global_label "PAY1_A"
+	(hierarchical_label "CANH1"
+		(shape input)
+		(at 264.16 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1cc7cef3-7922-408d-b9a5-0ca13b01869f")
+	)
+	(hierarchical_label "RBF_INHIBIT"
+		(shape input)
+		(at 157.48 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43e6b569-1d39-45cc-b41c-6d0b592eeada")
+	)
+	(hierarchical_label "SWDIO"
+		(shape input)
+		(at 157.48 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5e46e936-4eca-4701-a94c-dcc9f8614855")
+	)
+	(hierarchical_label "USB_D+"
+		(shape input)
+		(at 161.29 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "60e2dde4-37df-4209-9dbf-17bfafa9ee5e")
+	)
+	(hierarchical_label "USB_D-"
+		(shape input)
+		(at 161.29 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a366625-2b46-4cf3-9ccb-712e354c214e")
+	)
+	(hierarchical_label "PAY1_B"
 		(shape input)
 		(at 241.3 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "efb31b31-e8bc-4d13-83a2-9f2bc510f4a4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 250.9981 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+		(uuid "7e957a43-b27e-4be3-9244-14da6b4140ab")
 	)
-	(global_label "PAY1_B"
+	(hierarchical_label "PAY1_A"
 		(shape input)
 		(at 241.3 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "f8514175-6a00-45d8-b248-bd722e9b9166")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.1795 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
+		(uuid "848c6912-4368-44a9-b9a6-2368048314da")
+	)
+	(hierarchical_label "CANL1"
+		(shape input)
+		(at 264.16 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify left)
 		)
+		(uuid "c12977e5-2bb8-4a3f-8448-bee18e786e14")
+	)
+	(hierarchical_label "SWCLK"
+		(shape input)
+		(at 157.48 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f10fa11c-33a3-4d77-80c1-70f3cc151e21")
 	)
 	(symbol
 		(lib_id "MCU_RaspberryPi_RP2350:RP2350_60QFN")
