@@ -11,4 +11,5 @@
   (lib (name "TCAN1046AV")(type "KiCad")(uri "${KICAD_USER_CADFILES}/TCAN1046AVDYYRQ1/footprints.pretty")(options "")(descr ""))
   (lib (name "SQT-110-01-L-D")(type "KiCad")(uri "${KICAD_USER_CADFILES}/SQT-110-01-L-D/footprints.pretty")(options "")(descr ""))
   (lib (name "SMA_J_P_H_RA_TH1")(type "KiCad")(uri "${KICAD_USER_CADFILES}/SMA_J_P_H_RA_TH1/footprints.pretty")(options "")(descr ""))
+  (lib (name "HEDGE2")(type "KiCad")(uri "${KIPRJMOD}/HEDGE2.pretty")(options "")(descr ""))
 )
