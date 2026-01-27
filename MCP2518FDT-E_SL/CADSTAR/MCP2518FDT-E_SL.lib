@@ -1,0 +1,18 @@
+.MCP2518FDT-E_SL :1 ;CAN Interface IC Stand-alone Low Power CAN FD Controller w/SPI Interface Grade1
+SOIC127P600X175-14N
+*STM IC
+*NGS
+*PLB 1="TXCAN" 2="RXCAN" 3="CLKO/SOF" 4="'INT'" 5="OSC2" 6="OSC1" 7="VSS" 8="'INT1'/GPIO1" 9="'INT0'/GPIO0/XSTBY" 10="SCK" 11="SDI" 12="SDO" 13="NCS" 14="VDD"
+*MXP 14
+*DFN MCP2518FDT-E_SL
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP2518FDT-E/SL)
+~!Mouser Part Number (579-MCP2518FDT-E/SL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP2518FDT-E-SL?qs=T3oQrply3y%2F7g%252BYAgK9Bdg%3D%3D)
+~!Arrow Part Number (MCP2518FDT-E/SL)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mcp2518fdt-esl/microchip-technology?utm_currency=USD&region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/744760637e861ab0ee43f380fa65a694.pdf)
+~!Height (1.75mm)
+~!3D_Model (MCP2518FDT-E_SL)
+MCP2518FDT-E_SL
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

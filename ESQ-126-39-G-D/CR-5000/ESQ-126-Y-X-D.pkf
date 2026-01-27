@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESQ-126-Y-X-D"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESQ-126-Y-X-D")
+        (spec "default")
+    )
+)

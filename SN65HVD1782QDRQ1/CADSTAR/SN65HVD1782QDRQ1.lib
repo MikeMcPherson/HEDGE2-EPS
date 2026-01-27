@@ -1,0 +1,18 @@
+.SN65HVD1782QDRQ1 :1 ;Automotive Fault-Protected RS-485 Transceivers with 3.3-V to 5-V Operation
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="R" 2="RE" 3="DE" 4="D" 5="GND" 6="A" 7="B" 8="VCC"
+*MXP 8
+*DFN SN65HVD1782QDRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN65HVD1782QDRQ1)
+~!Mouser Part Number (595-SN65HVD1782QDRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65HVD1782QDRQ1?qs=8%2FmU9qzJpL8mmEwMbjC79g%3D%3D)
+~!Arrow Part Number (SN65HVD1782QDRQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sn65hvd1782qdrq1/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/sn65hvd1782-q1.pdf)
+~!Height (1.75mm)
+~!3D_Model (SN65HVD1782QDRQ1)
+SN65HVD1782QDRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

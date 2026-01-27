@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TCAN1046AVDYYRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.1
+Released=2024-07-06 03:45:36
+Downloaded=2026-01-15 06:39:59
+3D=Y

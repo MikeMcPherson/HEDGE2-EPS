@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS22997RYZR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS22997RYZR" (!) = "", "TPS22997RYZR", "Other", "595-TPS22997RYZR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS22997RYZR?qs=amGC7iS6iy986RqKkXLlig%3D%3D", "TPS22997RYZR", "https://www.arrow.com/en/products/tps22997ryzr/texas-instruments?utm_currency=USD&region=nac", "TPS22997 5.5-V, 10-A, 4-m On-Resistance Load Switch with Adjustable Rise Time", "https://www.ti.com/lit/gpn/tps22997?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes?hkey=EF798316E3902B6ED9A73243A3159BB0", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS22997RYZR
+D TPS22997 5.5-V, 10-A, 4-m On-Resistance Load Switch with Adjustable Rise Time
+K
+F https://www.ti.com/lit/gpn/tps22997?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+#End Doc Library

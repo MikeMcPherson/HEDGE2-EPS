@@ -1,0 +1,231 @@
+(footprint "S4BXHALFSN"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "S4B-XH-A(LF)(SN)-")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at -3.75 -3.45 0)
+		(layer "F.SilkS")
+		(uuid "219052c8-8171-4bd3-abdc-9d247344b50c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "S4BXHALFSN"
+		(at -3.75 -3.45 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1d236d75-f4b0-461e-9f89-bdcbbc3e4c98")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5db761f-9566-488e-bbe5-4426733552a7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2db49705-b397-4cbf-8dba-6837b3e02beb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.95 -9.2)
+		(end -9.95 2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5a97ff28-876f-42da-a00b-d0b8d1a3240f")
+	)
+	(fp_line
+		(start -9.95 2.3)
+		(end 2.45 2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60cd365f-c0ba-4d0c-b1f0-7b35c9f29f6e")
+	)
+	(fp_line
+		(start 2.45 -9.2)
+		(end -9.95 -9.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c41cfc89-5b10-4167-a317-be9f12d6992d")
+	)
+	(fp_line
+		(start 2.45 2.3)
+		(end 2.45 -9.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b5a54d9-0476-4d34-970a-aa8c860bf9a3")
+	)
+	(fp_line
+		(start -10.95 -10.2)
+		(end -10.95 3.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0babbfb4-b581-44ae-a481-45d6d275463c")
+	)
+	(fp_line
+		(start -10.95 3.3)
+		(end 3.45 3.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "59d98c55-6c23-4298-8ce8-f5ef03570769")
+	)
+	(fp_line
+		(start 3.45 -10.2)
+		(end -10.95 -10.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "883d1945-0766-4fe2-92e0-8601b6cc1001")
+	)
+	(fp_line
+		(start 3.45 3.3)
+		(end 3.45 -10.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "795086ce-bcf5-4e68-865b-48b11ff6ea8b")
+	)
+	(fp_line
+		(start -9.95 -9.2)
+		(end 2.45 -9.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5456f6e-f55b-401d-9c3c-8cd769271165")
+	)
+	(fp_line
+		(start -9.95 2.3)
+		(end -9.95 -9.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "007dc604-402a-44c5-bc0a-c5e06bd6549e")
+	)
+	(fp_line
+		(start 2.45 -9.2)
+		(end 2.45 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5ed2ac57-0fb4-458d-85ba-6ceec5d34298")
+	)
+	(fp_line
+		(start 2.45 2.3)
+		(end -9.95 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "92da6459-bb6b-4844-8c08-3ecf3fffc631")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -3.75 -3.45 0)
+		(layer "F.Fab")
+		(uuid "766c6448-28fc-41ae-bd70-c47ec806d02f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "550f508c-ab07-4eea-9c72-ba3ccd52693f")
+	)
+	(pad "2" thru_hole circle
+		(at -2.5 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3bbf9100-3976-4466-8955-825dd772560c")
+	)
+	(pad "3" thru_hole circle
+		(at -5 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1e9d0543-b893-4fe0-8294-11f8828ff476")
+	)
+	(pad "4" thru_hole circle
+		(at -7.5 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c058a464-973a-4651-addf-3059b1e81382")
+	)
+	(embedded_fonts no)
+	(model "S4B-XH-A_LF__SN_.stp"
+		(offset
+			(xyz -3.749999944 3.449999996 1.99999997)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 0)
+		)
+	)
+)

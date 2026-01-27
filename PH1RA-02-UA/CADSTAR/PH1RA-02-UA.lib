@@ -1,0 +1,18 @@
+.PH1RA-02-UA :1 ;Connector Header Through Hole, Right Angle 2 position 0.100" (2.54mm)
+PH1RA02UA
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PH1RA-02-UA
+~!Manufacturer_Name (Adam Tech)
+~!Manufacturer_Part_Number (PH1RA-02-UA)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (PH1RA-02-UA)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ph1ra-02-ua/adam-tech)
+~!Link Datasheet (https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf)
+~!Height (2.8702mm)
+~!3D_Model (PH1RA-02-UA)
+PH1RA-02-UA
+1.1!U 2.1!U 

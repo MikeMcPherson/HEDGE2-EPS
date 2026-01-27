@@ -1,0 +1,18 @@
+.ABM10AIG-40.000MHZ-7-J1Z-T :1 ;Automotive & Industrial Grade Ceramic Base SMD Crystal
+ABM10AIG
+*STM Y
+*NGS
+*PLB 1="XTAL_1" 2="GND_1" 3="XTAL_2" 4="GND_2"
+*MXP 4
+*DFN ABM10AIG-40.000MHZ-7-J1Z-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ABM10AIG-40.000MHZ-7-J1Z-T)
+~!Mouser Part Number (815-M10AIG-40-7J1ZT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ABM10AIG-40.000MHZ-7-J1Z-T?qs=uwxL4vQweFM9TX6A4vx2XA%3D%3D)
+~!Arrow Part Number (ABM10AIG-40.000MHZ-7-J1Z-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/abm10aig-40.000mhz-7-j1z-t/abracon)
+~!Link Datasheet (https://abracon.com/AIGcrystals/ABM10AIG.pdf)
+~!Height (0.65mm)
+~!3D_Model (ABM10AIG-40.000MHZ-7-J1Z-T)
+ABM10AIG-40.000MHZ-7-J1Z-T
+1.1!U 2.1!U 3.1!U 4.1!U 

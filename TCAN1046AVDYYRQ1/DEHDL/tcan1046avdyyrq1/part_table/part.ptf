@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAN1046AVDYYRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAN1046AVDYYRQ1" (!) = "", "SOP50P326X110-14N", "Small Outline Packages", "595-TCAN1046AVDYYRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1046AVDYYRQ1?qs=doiCPypUmgHWM9fDrxlKTw%3D%3D", "TCAN1046AVDYYRQ1", "https://www.arrow.com/en/products/tcan1046avdyyrq1/texas-instruments?utm_currency=USD&region=nac", "Dual CAN Transceiver", "https://www.ti.com/lit/ds/symlink/tcan1046av-q1.pdf?ts=1705486781922", "1.1 mm"
+END_PART
+
+END.

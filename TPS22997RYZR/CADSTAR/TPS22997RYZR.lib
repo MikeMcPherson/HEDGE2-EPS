@@ -1,0 +1,18 @@
+.TPS22997RYZR :1 ;TPS22997 5.5-V, 10-A, 4-m On-Resistance Load Switch with Adjustable Rise Time
+TPS22997RYZR
+*STM IC
+*NGS
+*PLB 1="VBIAS" 2="VIN_1" 3="VIN_2" 4="PG" 5="GND" 6="QOD" 7="VOUT_1" 8="VOUT_2" 9="CT" 10="ON"
+*MXP 10
+*DFN TPS22997RYZR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS22997RYZR)
+~!Mouser Part Number (595-TPS22997RYZR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS22997RYZR?qs=amGC7iS6iy986RqKkXLlig%3D%3D)
+~!Arrow Part Number (TPS22997RYZR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps22997ryzr/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/gpn/tps22997?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes?hkey=EF798316E3902B6ED9A73243A3159BB0)
+~!Height (0.8mm)
+~!3D_Model (TPS22997RYZR)
+TPS22997RYZR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

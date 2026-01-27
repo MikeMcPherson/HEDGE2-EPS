@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=ESQ-126-39-G-D
+PartCategory=Connector
+PackageCategory=Other
+PinCount=52
+Version=2.1
+Released=2018-10-24 00:16:18
+Downloaded=2026-01-22 18:54:27
+3D=Y

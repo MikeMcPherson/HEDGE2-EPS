@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SM71202HTG"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SM71202HTG")
+        (spec "default")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ABM10AIG_40.000MHZ_7_J1Z_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ABM10AIG-40.000MHZ-7-J1Z-T" (!) = "", "ABM10AIG", "Other", "815-M10AIG-40-7J1ZT", "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM10AIG-40.000MHZ-7-J1Z-T?qs=uwxL4vQweFM9TX6A4vx2XA%3D%3D", "ABM10AIG-40.000MHZ-7-J1Z-T", "https://www.arrow.com/en/products/abm10aig-40.000mhz-7-j1z-t/abracon", "Automotive & Industrial Grade Ceramic Base SMD Crystal", "https://abracon.com/AIGcrystals/ABM10AIG.pdf", "0.65 mm"
+END_PART
+
+END.

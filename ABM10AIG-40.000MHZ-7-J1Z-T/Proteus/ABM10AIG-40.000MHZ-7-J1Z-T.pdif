@@ -1,0 +1,110 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ABM10AIG-40.000MHZ-7-J1Z-T"
+   (description "Automotive & Industrial Grade Ceramic Base SMD Crystal")
+   (family "OSC")
+   (package "ABM10AIG")
+   (attribute "Datasheet Link" "https://abracon.com/AIGcrystals/ABM10AIG.pdf")
+   (attribute "Geometry.Height" "0.65mm")
+   (attribute "Manufacturer_Name" "ABRACON")
+   (attribute "Manufacturer_Part_Number" "ABM10AIG-40.000MHZ-7-J1Z-T")
+   (attribute "Mouser Part Number" "815-M10AIG-40-7J1ZT")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM10AIG-40.000MHZ-7-J1Z-T?qs=uwxL4vQweFM9TX6A4vx2XA%3D%3D")
+   (attribute "Arrow Part Number" "ABM10AIG-40.000MHZ-7-J1Z-T")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/abm10aig-40.000mhz-7-j1z-t/abracon")
+   (gate
+    (symbol "ABM10AIG-40.000MHZ-7-J1Z-T")
+    (pin "XTAL_1" 1 PS)
+    (pin "GND_1" 2 PS)
+    (pin "XTAL_2" 3 PS)
+    (pin "GND_2" 4 PS)
+   )
+  )
+  (symbol "ABM10AIG-40.000MHZ-7-J1Z-T"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ABM10AIG"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.275 -1.025)
+      (pt 1.275 -1.025)
+      (pt 1.275 1.025)
+      (pt -1.275 1.025)
+      (pt -1.275 -1.025))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.375 2.125)
+      (pt 2.375 2.125)
+      (pt 2.375 -2.125)
+      (pt -2.375 -2.125)
+      (pt -2.375 2.125))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.825 -1.7)
+      (arc (pt -0.825 -1.700) (pt -0.875 -1.700) (pt -0.775 -1.600) (start 180.0) (sweep -90.0))
+      (pt -0.825 -1.6)
+      (arc (pt -0.825 -1.600) (pt -0.875 -1.700) (pt -0.775 -1.600) (start 180.0) (sweep 90.0))
+      (pt -0.825 -1.7)
+      (arc (pt -0.825 -1.700) (pt -0.875 -1.700) (pt -0.775 -1.600) (start 180.0) (sweep -90.0))
+      (pt -0.825 -1.6))))
+   (leg 1 (pt -0.825 -0.625) (padstack 0))
+   (leg 2 (pt 0.825 -0.625) (padstack 0))
+   (leg 3 (pt 0.825 0.625) (padstack 0))
+   (leg 4 (pt -0.825 0.625) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 1.100 0 0 0.000))
+   )
+   (model "ABM10AIG-40.000MHZ-7-J1Z-T.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

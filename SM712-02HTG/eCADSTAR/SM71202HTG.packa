@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SM712-02HTG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-09-08:24:53)
+    (mountForm default
+        (footprintRef "SM71202HTG")
+        (spec "System")
+    )
+)

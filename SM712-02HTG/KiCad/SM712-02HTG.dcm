@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM712-02HTG
+D 31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a4019802-ff62-41ff-bf66-295f97422f81&filename=littelfuse-tvs-diode-array-sm712-datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TPS22997RYZR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TPS22997RYZR")
+        (spec "default")
+    )
+)

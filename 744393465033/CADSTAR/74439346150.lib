@@ -1,0 +1,18 @@
+.74439346150 :1 ;WE-XHMI SMT Power Inductor
+"74439346150"
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 74439346150
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (74439346150)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.we-online.com/katalog/datasheet/74439346150.pdf)
+~!Height (6.1mm)
+~!3D_Model (74439346150)
+"74439346150"
+1.1!U 2.1!U 

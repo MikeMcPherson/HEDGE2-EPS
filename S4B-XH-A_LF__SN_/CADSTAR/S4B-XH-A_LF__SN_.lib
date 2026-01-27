@@ -1,0 +1,18 @@
+.S4B-XH-A_LF__SN_ :1 ;XH-2.5mm Header side entry 4 way JST XH Series, Series Number S4B, 2.5mm Pitch 4 Way 1 Row Right Angle PCB Header, Solder Termination, 3A
+S4BXHALFSN
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN S4B-XH-A_LF__SN_
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (S4B-XH-A(LF)(SN))
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/JST-Commercial/S4B-XH-ALFSN?qs=QpmGXVUTftF7eeJ4yg3VYQ%3D%3D)
+~!Arrow Part Number (S4B-XH-A(LF)(SN))
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/s4b-xh-a-lf-sn/jst-manufacturing?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.mouser.co.uk/ProductDetail/JST-Commercial/S4B-XH-ALFSN?qs=QpmGXVUTftEyAvx%252Br33AyQ%3D%3D&srsltid=AfmBOopXgwHK5vQKy207Eg2VBdixziHXVBrLkW0Mvqq_XGzuQb0VSmKc)
+~!Height (7mm)
+~!3D_Model (S4B-XH-A_LF__SN_)
+S4B-XH-A_LF__SN_
+1.1!U 2.1!U 3.1!U 4.1!U 

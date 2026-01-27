@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS22997RYZR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.3
+Released=2023-09-06 03:48:49
+Downloaded=2026-01-15 05:54:50
+3D=Y

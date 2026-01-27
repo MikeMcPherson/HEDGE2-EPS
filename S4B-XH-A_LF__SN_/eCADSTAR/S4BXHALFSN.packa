@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "S4B-XH-A_LF__SN_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-19-10:09:01)
+    (mountForm default
+        (footprintRef "S4BXHALFSN")
+        (spec "System")
+    )
+)

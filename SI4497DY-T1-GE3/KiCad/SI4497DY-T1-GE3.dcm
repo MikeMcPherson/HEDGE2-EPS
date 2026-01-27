@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI4497DY-T1-GE3
+D MOSFET -30V Vds 20V Vgs SO-8
+K
+F https://www.vishay.com/docs/65748/si4497dy.pdf
+$ENDCMP
+#
+#End Doc Library

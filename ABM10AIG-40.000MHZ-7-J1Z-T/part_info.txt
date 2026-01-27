@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ABM10AIG-40.000MHZ-7-J1Z-T
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=3.1
+Released=2023-04-06 13:01:00
+Downloaded=2026-01-15 22:27:30
+3D=Y

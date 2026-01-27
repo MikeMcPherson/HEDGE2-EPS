@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "S4BXHALFSN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "S4BXHALFSN")
+        (spec "default")
+    )
+)

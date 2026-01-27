@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESQ-126-39-G-D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-19-12:12:42)
+    (mountForm default
+        (footprintRef "ESQ-126-Y-X-D")
+        (spec "System")
+    )
+)

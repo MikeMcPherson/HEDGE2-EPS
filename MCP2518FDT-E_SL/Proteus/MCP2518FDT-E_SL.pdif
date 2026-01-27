@@ -1,0 +1,182 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MCP2518FDT-E_SL"
+   (description "CAN Interface IC Stand-alone Low Power CAN FD Controller w/SPI Interface Grade1")
+   (family "ANA")
+   (package "SOIC127P600X175-14N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/744760637e861ab0ee43f380fa65a694.pdf")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Manufacturer_Name" "Microchip")
+   (attribute "Manufacturer_Part_Number" "MCP2518FDT-E/SL")
+   (attribute "Mouser Part Number" "579-MCP2518FDT-E/SL")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP2518FDT-E-SL?qs=T3oQrply3y%2F7g%252BYAgK9Bdg%3D%3D")
+   (attribute "Arrow Part Number" "MCP2518FDT-E/SL")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/mcp2518fdt-esl/microchip-technology?utm_currency=USD&region=nac")
+   (gate
+    (symbol "MCP2518FDT-E_SL")
+    (pin "TXCAN" 1 PS)
+    (pin "RXCAN" 2 PS)
+    (pin "CLKO/SOF" 3 PS)
+    (pin "$INT$" 4 PS)
+    (pin "OSC2" 5 PS)
+    (pin "OSC1" 6 PS)
+    (pin "VSS" 7 PS)
+    (pin "VDD" 14 PS)
+    (pin "NCS" 13 PS)
+    (pin "SDO" 12 PS)
+    (pin "SDI" 11 PS)
+    (pin "SCK" 10 PS)
+    (pin "$INT0$/GPIO0/XSTBY" 9 PS)
+    (pin "$INT1$/GPIO1" 8 PS)
+   )
+  )
+  (symbol "MCP2518FDT-E_SL"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1800 100) (pt 1800 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2000 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P600X175-14N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.7 4.575)
+      (pt 3.7 4.575)
+      (pt 3.7 -4.575)
+      (pt -3.7 -4.575)
+      (pt -3.7 4.575))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 4.325)
+      (pt 1.95 4.325)
+      (pt 1.95 -4.325)
+      (pt -1.95 -4.325)
+      (pt -1.95 4.325))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 3.055)
+      (pt -0.68 4.325))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 4.325)
+      (pt 1.6 4.325)
+      (pt 1.6 -4.325)
+      (pt -1.6 -4.325)
+      (pt -1.6 4.325))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.45 4.485)
+      (pt -1.95 4.485))))
+   (leg 1 (pt -2.7 3.81) (padstack 0))
+   (leg 2 (pt -2.7 2.54) (padstack 0))
+   (leg 3 (pt -2.7 1.27) (padstack 0))
+   (leg 4 (pt -2.7 0) (padstack 0))
+   (leg 5 (pt -2.7 -1.27) (padstack 0))
+   (leg 6 (pt -2.7 -2.54) (padstack 0))
+   (leg 7 (pt -2.7 -3.81) (padstack 0))
+   (leg 8 (pt 2.7 -3.81) (padstack 0))
+   (leg 9 (pt 2.7 -2.54) (padstack 0))
+   (leg 10 (pt 2.7 -1.27) (padstack 0))
+   (leg 11 (pt 2.7 0) (padstack 0))
+   (leg 12 (pt 2.7 1.27) (padstack 0))
+   (leg 13 (pt 2.7 2.54) (padstack 0))
+   (leg 14 (pt 2.7 3.81) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.5 0 0 0))
+   )
+   (model "MCP2518FDT-E_SL.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

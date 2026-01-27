@@ -1,0 +1,18 @@
+.SI4497DY-T1-GE3 :1 ;MOSFET -30V Vds 20V Vgs SO-8
+SOIC127P600X175-8N
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4"
+*MXP 8
+*DFN SI4497DY-T1-GE3
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SI4497DY-T1-GE3)
+~!Mouser Part Number (781-SI4497DY-T1-GE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI4497DY-T1-GE3?qs=WX95TUc1y57nwgYqN479sg%3D%3D)
+~!Arrow Part Number (SI4497DY-T1-GE3)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/si4497dy-t1-ge3/vishay?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.vishay.com/docs/65748/si4497dy.pdf)
+~!Height (1.75mm)
+~!3D_Model (SI4497DY-T1-GE3)
+SI4497DY-T1-GE3
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,18 @@
+.TCAN1046AVDYYRQ1 :1 ;Dual CAN Transceiver
+SOP50P326X110-14N
+*STM IC
+*NGS
+*PLB 1="TXD1" 2="GND1" 3="VCC" 4="RXD1" 5="GND2" 6="TXD2" 7="RXD2" 8="STB2" 9="CANL2" 10="CANH2" 11="VIO" 12="CANL1" 13="CANH1" 14="STB1"
+*MXP 14
+*DFN TCAN1046AVDYYRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCAN1046AVDYYRQ1)
+~!Mouser Part Number (595-TCAN1046AVDYYRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1046AVDYYRQ1?qs=doiCPypUmgHWM9fDrxlKTw%3D%3D)
+~!Arrow Part Number (TCAN1046AVDYYRQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tcan1046avdyyrq1/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tcan1046av-q1.pdf?ts=1705486781922)
+~!Height (1.1mm)
+~!3D_Model (TCAN1046AVDYYRQ1)
+TCAN1046AVDYYRQ1
+1.1!I 2.1!G 3.1!U 4.1!Y 5.1!G 6.1!I 7.1!Y 14.1!I 13.1!U 12.1!U 11.1!P 10.1!U 9.1!U 8.1!I 

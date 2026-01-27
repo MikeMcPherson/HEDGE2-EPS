@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESQ-126-39-G-D
+D .100" PC/104 Elevated Socket Strip,  positions per row,  row
+K
+F http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf
+$ENDCMP
+#
+#End Doc Library

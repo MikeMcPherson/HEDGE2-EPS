@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TCAN1046AVDYYRQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-14-07:35:03)
+    (mountForm default
+        (footprintRef "SOP50P326X110-14N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,182 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TCAN1046AVDYYRQ1"
+   (description "Dual CAN Transceiver")
+   (family "ANA")
+   (package "SOP50P326X110-14N")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tcan1046av-q1.pdf?ts=1705486781922")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TCAN1046AVDYYRQ1")
+   (attribute "Mouser Part Number" "595-TCAN1046AVDYYRQ1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1046AVDYYRQ1?qs=doiCPypUmgHWM9fDrxlKTw%3D%3D")
+   (attribute "Arrow Part Number" "TCAN1046AVDYYRQ1")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/tcan1046avdyyrq1/texas-instruments?utm_currency=USD&region=nac")
+   (gate
+    (symbol "TCAN1046AVDYYRQ1")
+    (pin "TXD1" 1 IP)
+    (pin "GND1" 2 PP)
+    (pin "VCC" 3 PS)
+    (pin "RXD1" 4 OP)
+    (pin "GND2" 5 PP)
+    (pin "TXD2" 6 IP)
+    (pin "RXD2" 7 OP)
+    (pin "STB1" 14 IP)
+    (pin "CANH1" 13 IO)
+    (pin "CANL1" 12 IO)
+    (pin "VIO" 11 PP)
+    (pin "CANH2" 10 IO)
+    (pin "CANL2" 9 IO)
+    (pin "STB2" 8 IP)
+   )
+  )
+  (symbol "TCAN1046AVDYYRQ1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP50P326X110-14N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.325 2.4)
+      (pt 2.325 2.4)
+      (pt 2.325 -2.4)
+      (pt -2.325 -2.4)
+      (pt -2.325 2.4))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 2.1)
+      (pt 1 2.1)
+      (pt 1 -2.1)
+      (pt -1 -2.1)
+      (pt -1 2.1))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1 1.6)
+      (pt -0.5 2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.65 2.1)
+      (pt 0.65 2.1)
+      (pt 0.65 -2.1)
+      (pt -0.65 -2.1)
+      (pt -0.65 2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.075 2)
+      (pt -1 2))))
+   (leg 1 (pt -1.538 1.5) (padstack 0))
+   (leg 2 (pt -1.538 1) (padstack 0))
+   (leg 3 (pt -1.538 0.5) (padstack 0))
+   (leg 4 (pt -1.538 0) (padstack 0))
+   (leg 5 (pt -1.538 -0.5) (padstack 0))
+   (leg 6 (pt -1.538 -1) (padstack 0))
+   (leg 7 (pt -1.538 -1.5) (padstack 0))
+   (leg 8 (pt 1.538 -1.5) (padstack 0))
+   (leg 9 (pt 1.538 -1) (padstack 0))
+   (leg 10 (pt 1.538 -0.5) (padstack 0))
+   (leg 11 (pt 1.538 0) (padstack 0))
+   (leg 12 (pt 1.538 0.5) (padstack 0))
+   (leg 13 (pt 1.538 1) (padstack 0))
+   (leg 14 (pt 1.538 1.5) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.3 1.075 0 0 0))
+   )
+   (model "TCAN1046AVDYYRQ1.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,118 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SM712-02HTG"
+   (description "31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3")
+   (family "DIO")
+   (package "SM71202HTG")
+   (attribute "Datasheet Link" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a4019802-ff62-41ff-bf66-295f97422f81&filename=littelfuse-tvs-diode-array-sm712-datasheet")
+   (attribute "Geometry.Height" "1.12mm")
+   (attribute "Manufacturer_Name" "LITTELFUSE")
+   (attribute "Manufacturer_Part_Number" "SM712-02HTG")
+   (attribute "Mouser Part Number" "576-SM712-02HTG")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D")
+   (attribute "Arrow Part Number" "SM712-02HTG")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sm712-02htg/littelfuse?utm_currency=USD&region=nac")
+   (gate
+    (symbol "SM712-02HTG")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+   )
+  )
+  (symbol "SM712-02HTG"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SM71202HTG"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.46 0.65)
+      (pt 1.46 0.65)
+      (pt 1.46 -0.65)
+      (pt -1.46 -0.65)
+      (pt -1.46 0.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.46 2.535)
+      (pt 2.46 2.535)
+      (pt 2.46 -2.535)
+      (pt -2.46 -2.535)
+      (pt -2.46 2.535))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.95 -2)
+      (arc (pt -0.950 -2.000) (pt -1.000 -2.100) (pt -0.900 -2.000) (start 180.0) (sweep 90.0))
+      (pt -0.95 -2.1)
+      (arc (pt -0.950 -2.100) (pt -1.000 -2.100) (pt -0.900 -2.000) (start 180.0) (sweep -90.0))
+      (pt -0.95 -2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.8 0.65)
+      (pt -1.46 0.65)
+      (pt -1.46 -0.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0.8 0.65)
+      (pt 1.46 0.65)
+      (pt 1.46 -0.4))))
+   (leg 1 (pt -0.950 -1.145) (padstack 0))
+   (leg 2 (pt 0.950 -1.145) (padstack 0))
+   (leg 3 (pt 0.000 1.145) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 0.780))
+   )
+   (model "SM712-02HTG.stp"
+    (euler 0 180 180)
+    (offset 0 0 0.6100000143051147)
+   )
+  )
+ )
+)

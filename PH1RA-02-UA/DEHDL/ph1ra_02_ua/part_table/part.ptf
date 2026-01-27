@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PH1RA_02_UA'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Adam Tech", "PH1RA-02-UA" (!) = "", "PH1RA02UA", "Other", "", "", "PH1RA-02-UA", "https://www.arrow.com/en/products/ph1ra-02-ua/adam-tech", "Connector Header Through Hole, Right Angle 2 position 0.100" (2.54mm)", "https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf", "2.8702 mm"
+END_PART
+
+END.

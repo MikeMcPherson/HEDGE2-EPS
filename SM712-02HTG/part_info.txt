@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SM712-02HTG
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Other
+PinCount=3
+Version=3.3
+Released=2023-03-09 08:24:53
+Downloaded=2026-01-18 05:23:40
+3D=Y

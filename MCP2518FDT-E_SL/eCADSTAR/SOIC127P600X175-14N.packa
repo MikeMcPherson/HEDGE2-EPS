@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP2518FDT-E_SL"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-24-13:39:56)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-14N")
+        (spec "System")
+    )
+)

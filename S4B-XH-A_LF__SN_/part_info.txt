@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=S4B-XH-A(LF)(SN)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=4.2
+Released=2016-04-05 14:51:42
+Downloaded=2026-01-14 05:18:33
+3D=Y

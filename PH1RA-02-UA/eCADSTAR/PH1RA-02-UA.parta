@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_2255829"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-07-24-05:54:49)
+    (utime 2024-07-29-06:06:52)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PH1RA-02-UA")
+)
+
+
+(pinAssign "ECS_2255829"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-07-24-05:54:49)
+    (utime 2024-07-29-06:06:52)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_2255829")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PH1RA-02-UA")
+)
+
+
+(part "PH1RA-02-UA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-07-24-05:54:49)
+    (utime 2024-07-29-06:06:52)
+    (packageRef "PH1RA-02-UA")
+    (pinAssignRef "ECS_2255829")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Connector Header Through Hole, Right Angle 2 position 0.100\" (2.54mm)")
+    (property "Manufacturer_Name" "Adam Tech")
+    (property "Manufacturer_Part_Number" "PH1RA-02-UA")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "PH1RA-02-UA")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ph1ra-02-ua/adam-tech")
+    (property "Datasheet_Link" "https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf")
+    (property "compAreaTopHeight" 2.8702)
+)
+
+

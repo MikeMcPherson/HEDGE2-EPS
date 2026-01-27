@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESQ_126_39_G_D'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "SAMTEC", "ESQ-126-39-G-D" (!) = "", "ESQ-126-Y-X-D", "Other", "200-ESQ12639GD", "https://www.mouser.co.uk/ProductDetail/Samtec/ESQ-126-39-G-D?qs=Cqqh%252BS766wm7W672HSOlSA%3D%3D", "ESQ-126-39-G-D", "https://www.arrow.com/en/products/esq-126-39-g-d/samtec?region=nac", ".100" PC/104 Elevated Socket Strip,  positions per row,  row", "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"
+END_PART
+
+END.

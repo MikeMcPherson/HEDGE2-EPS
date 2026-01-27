@@ -1,0 +1,18 @@
+.SM712-02HTG :1 ;31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3
+SM71202HTG
+*STM D
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN SM712-02HTG
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SM712-02HTG)
+~!Mouser Part Number (576-SM712-02HTG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D)
+~!Arrow Part Number (SM712-02HTG)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sm712-02htg/littelfuse?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a4019802-ff62-41ff-bf66-295f97422f81&filename=littelfuse-tvs-diode-array-sm712-datasheet)
+~!Height (1.12mm)
+~!3D_Model (SM712-02HTG)
+SM712-02HTG
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SI4497DY_T1_GE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SI4497DY-T1-GE3" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "781-SI4497DY-T1-GE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI4497DY-T1-GE3?qs=WX95TUc1y57nwgYqN479sg%3D%3D", "SI4497DY-T1-GE3", "https://www.arrow.com/en/products/si4497dy-t1-ge3/vishay?utm_currency=USD&region=europe", "MOSFET -30V Vds 20V Vgs SO-8", "https://www.vishay.com/docs/65748/si4497dy.pdf", "1.75 mm"
+END_PART
+
+END.

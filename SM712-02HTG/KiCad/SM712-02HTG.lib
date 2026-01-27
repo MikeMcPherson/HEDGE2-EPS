@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SM712-02HTG
+#/348624/373961/2.50/3/3/TVS Diode (Bi-directional)
+DEF SM712-02HTG D 0 30 Y Y 1 F N
+F0 "D" 650 300 50 H V L CNN
+F1 "SM712-02HTG" 650 200 50 H V L CNN
+F2 "SM71202HTG" 650 100 50 H I L CNN
+F3 "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a4019802-ff62-41ff-bf66-295f97422f81&filename=littelfuse-tvs-diode-array-sm712-datasheet" 650 0 50 H I L CNN
+F4 "31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3" 650 -100 50 H I L CNN "Description"
+F5 "1.12" 650 -200 50 H I L CNN "Height"
+F6 "LITTELFUSE" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SM712-02HTG" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "576-SM712-02HTG" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SM712-02HTG" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sm712-02htg/littelfuse?utm_currency=USD&region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

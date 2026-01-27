@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/2255829/373961/2.50/2/3/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="s153_h102" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="40.15748031496">
+    <padshape layer="TOP" shape="square" width="60.23622047244" height="60.23622047244" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="68.110236220472" height="68.110236220472" />
+    <padshape layer="INNER" shape="square" width="60.23622047244" height="60.23622047244" />
+    <padshape layer="BOTTOM" shape="square" width="60.23622047244" height="60.23622047244" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="square" width="68.110236220472" height="68.110236220472" />
+  </padstyle>
+  <padstyle name="c153_h102" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="40.15748031496">
+    <padshape layer="TOP" shape="round" width="60.23622047244" height="60.23622047244" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="68.110236220472" height="68.110236220472" />
+    <padshape layer="INNER" shape="round" width="60.23622047244" height="60.23622047244" />
+    <padshape layer="BOTTOM" shape="round" width="60.23622047244" height="60.23622047244" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="68.110236220472" height="68.110236220472" />
+  </padstyle>
+  <footprint name="PH1RA02UA" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="s153_h102" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c153_h102" originx="99.999999999999" originy="0" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-49.999999999999" originy="228.34645669291" endx="150" endy="228.34645669291" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="150" originy="228.34645669291" endx="150" endy="129.92125984252" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="150" originy="129.92125984252" endx="-49.999999999999" endy="129.92125984252" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-49.999999999999" originy="129.92125984252" endx="-49.999999999999" endy="228.34645669291" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-49.999999999999" originy="129.92125984252" endx="150" endy="129.92125984252" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="150" originy="129.92125984252" endx="150" endy="228.34645669291" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="150" originy="228.34645669291" endx="-49.999999999999" endy="228.34645669291" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-49.999999999999" originy="228.34645669291" endx="-49.999999999999" endy="129.92125984252" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-89.370078740156" originy="-69.488188976377" endx="189.37007874016" endy="-69.488188976377" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="189.37007874016" originy="-69.488188976377" endx="189.37007874016" endy="385.82677165354" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="189.37007874016" originy="385.82677165354" endx="-89.370078740156" endy="385.82677165354" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-89.370078740156" originy="385.82677165354" endx="-89.370078740156" endy="-69.488188976377" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="0" originy="228.34645669291" endx="0" endy="346.45669291338" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="99.999999999999" originy="228.34645669291" endx="99.999999999999" endy="346.45669291338" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="0" originy="0" endx="0" endy="129.92125984252" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="99.999999999999" originy="0" endx="99.999999999999" endy="129.92125984252" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="47.244094488188" endx="0" endy="129.92125984252" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="99.999999999999" originy="47.244094488188" endx="99.999999999999" endy="129.92125984252" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="228.34645669291" endx="0" endy="346.45669291338" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="99.999999999999" originy="228.34645669291" endx="99.999999999999" endy="346.45669291338" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-62.992125984251" originy="0" endx="-62.992125984251" endy="0" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="-64.960629921259" originy="0" startangle="180.0" sweepangle="180.0" radius="-1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-59.055118110235" originy="0" endx="-59.055118110235" endy="0" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="-64.960629921259" originy="0" startangle="-.0" sweepangle="180.0" radius="-1.9685039370079" width="3.9370078740157" />
+  </footprint>
+  <symbol name="PH1RA-02-UA" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="200" endy="-200" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-200" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+  </symbol>
+  <component name="PH1RA-02-UA" designatorprefix="J" height="113" footprint="PH1RA02UA">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <attached_symbol gate="1" name="PH1RA-02-UA" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Connector Header Through Hole, Right Angle 2 position 0.100&quot; (2.54mm)" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Adam Tech" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="PH1RA-02-UA" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="PH1RA-02-UA" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.arrow.com/en/products/ph1ra-02-ua/adam-tech" />
+  </component>
+</quadcept_library>

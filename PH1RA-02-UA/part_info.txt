@@ -1,0 +1,9 @@
+Manufacturer=Adam Tech
+PartNumber=PH1RA-02-UA
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2024-07-24 05:54:49
+Downloaded=2026-01-14 06:23:00
+3D=Y
