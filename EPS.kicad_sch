@@ -9697,10 +9697,6 @@
 		(uuid "a0dfee04-89a1-46bf-b09a-a6b42414213f")
 	)
 	(no_connect
-		(at 502.92 57.15)
-		(uuid "a26aa01e-af67-4f19-b4d4-0ba34134fa3a")
-	)
-	(no_connect
 		(at 92.71 180.34)
 		(uuid "a37475ca-c071-4917-9394-d855c2f27194")
 	)
@@ -28697,10 +28693,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c991ed71-afe1-4147-9467-1e67f1608646")
 		(property "Reference" "J1"
-			(at 184.15 44.4501 0)
+			(at 183.134 39.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
