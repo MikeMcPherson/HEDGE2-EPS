@@ -8724,18 +8724,6 @@
 		)
 		(uuid "500f192c-cc2f-4075-b3aa-3cc949802602")
 	)
-	(text "2 Separation Switches?"
-		(exclude_from_sim no)
-		(at 268.732 369.062 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "53f7e274-16e0-4a8c-8ea3-eafbf00d5f65")
-	)
 	(text "RS485 Communication\n"
 		(exclude_from_sim no)
 		(at 485.394 325.882 0)
@@ -27253,7 +27241,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "M805000000M10433300000"
+		(property "Footprint" "HEDGE2-EPS:M805000000M10433300000"
 			(at 204.47 157.15 0)
 			(effects
 				(font
