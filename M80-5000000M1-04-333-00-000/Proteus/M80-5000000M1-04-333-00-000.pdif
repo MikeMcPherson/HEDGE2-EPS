@@ -1,0 +1,129 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "M80-5000000M1-04-333-00-000"
+   (description "Datamate Mix-Tek: 4 Pos Plug SIL Right-Angle 3.5mm THT Power Connector Jackscrews")
+   (family "CON")
+   (package "M805000000M10433300000")
+   (attribute "Datasheet Link" "https://content.harwin.com/m/3dd0c935a279b32/original/DRG-01214-Technical-Drawing-Datasheet-M80-5000000M1-XX-XXX-00-000-pdf.pdf")
+   (attribute "Geometry.Height" "6mm")
+   (attribute "Manufacturer_Name" "Harwin")
+   (attribute "Manufacturer_Part_Number" "M80-5000000M1-04-333-00-000")
+   (attribute "Mouser Part Number" "855-0000M10433300000")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Harwin/M80-5000000M1-04-333-00-000?qs=W0yvOO0ixfE%252By8HRXG%252B6Ng%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "M80-5000000M1-04-333-00-000")
+    (pin "A1" A1 PS)
+    (pin "A2" A2 PS)
+    (pin "A3" A3 PS)
+    (pin "A4" A4 PS)
+   )
+  )
+  (symbol "M80-5000000M1-04-333-00-000"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "M805000000M10433300000"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -19 1.25)
+      (pt 7 1.25)
+      (pt 7 -6.35)
+      (pt -19 -6.35)
+      (pt -19 1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -20 2.25)
+      (pt 8 2.25)
+      (pt 8 -7.35)
+      (pt -20 -7.35)
+      (pt -20 2.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -12.8 1.25)
+      (pt -19 1.25)
+      (pt -19 -6.35)
+      (pt 7 -6.35)
+      (pt 7 1.25)
+      (pt 1.6 1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 1.7)
+      (arc (pt 0.000 1.700) (pt -0.050 1.600) (pt 0.050 1.700) (start 180.0) (sweep 90.0))
+      (pt 0 1.6)
+      (arc (pt 0.000 1.600) (pt -0.050 1.600) (pt 0.050 1.700) (start 180.0) (sweep -90.0))
+      (pt 0 1.7))))
+   (leg A1 (pt 0.000 -0.000) (padstack 1))
+   (leg A2 (pt -4.000 -0.000) (padstack 0))
+   (leg A3 (pt -8.000 -0.000) (padstack 0))
+   (leg A4 (pt -12.000 -0.000) (padstack 0))
+   (padstack 0
+    (hole 1.65)
+    (plated true)
+    (pad (layer TCOP) (round 2.475))
+    (pad (layer INNER) (round 2.475))
+    (pad (layer BCOP) (round 2.475))
+   )
+   (padstack 1
+    (hole 1.65)
+    (plated true)
+    (pad (layer TCOP) (square 2.475))
+    (pad (layer INNER) (round 2.475))
+    (pad (layer BCOP) (square 2.475))
+   )
+   (model "M80-5000000M1-04-333-00-000.stp"
+    (euler 0 0 180)
+    (offset -6 -2.799999952316284 3.0999999046325684)
+   )
+  )
+ )
+)

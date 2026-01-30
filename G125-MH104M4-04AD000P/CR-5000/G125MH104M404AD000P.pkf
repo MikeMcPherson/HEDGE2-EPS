@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "G125MH104M404AD000P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "G125MH104M404AD000P")
+        (spec "default")
+    )
+)

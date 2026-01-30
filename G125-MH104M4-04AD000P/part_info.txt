@@ -1,0 +1,9 @@
+Manufacturer=Harwin
+PartNumber=G125-MH104M4-04AD000P
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=3.3
+Released=2022-11-10 07:03:47
+Downloaded=2026-01-29 20:00:37
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Harwin
+PartNumber=M80-5000000M1-04-333-00-000
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=3.4
+Released=2022-04-06 07:23:02
+Downloaded=2026-01-30 04:16:41
+3D=Y

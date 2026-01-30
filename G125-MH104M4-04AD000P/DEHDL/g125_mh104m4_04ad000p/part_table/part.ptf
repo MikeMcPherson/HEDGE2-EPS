@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'G125_MH104M4_04AD000P'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "G125-MH104M4-04AD000P" (!) = "", "G125MH104M404AD000P", "Other", "855-G125MH14M44AD00P", "https://www.mouser.co.uk/ProductDetail/Harwin/G125-MH104M4-04AD000P?qs=Y0Uzf4wQF3nR%252B22z%252BtmrYQ%3D%3D", "", "", "Gecko-MT: 4+4 Pos Plug Right-Angle THT Connector Screw-Lok Board Mount", "https://content.harwin.com/m/91a65d72bc24bdea/original/DRG-03150-Technical-Drawing-Datasheet-G125-MH1XXM4-XXAD000P-pdf.pdf", "5.25 mm"
+END_PART
+
+END.

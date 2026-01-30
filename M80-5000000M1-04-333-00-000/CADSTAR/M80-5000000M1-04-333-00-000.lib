@@ -1,0 +1,19 @@
+.M80-5000000M1-04-333-00-000 :1 ;Datamate Mix-Tek: 4 Pos Plug SIL Right-Angle 3.5mm THT Power Connector Jackscrews
+M805000000M10433300000
+*STM J
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4
+*PLB 1="A1" 2="A2" 3="A3" 4="A4"
+*MXP 4
+*DFN M80-5000000M1-04-333-00-000
+~!Manufacturer_Name (Harwin)
+~!Manufacturer_Part_Number (M80-5000000M1-04-333-00-000)
+~!Mouser Part Number (855-0000M10433300000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Harwin/M80-5000000M1-04-333-00-000?qs=W0yvOO0ixfE%252By8HRXG%252B6Ng%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://content.harwin.com/m/3dd0c935a279b32/original/DRG-01214-Technical-Drawing-Datasheet-M80-5000000M1-XX-XXX-00-000-pdf.pdf)
+~!Height (6mm)
+~!3D_Model (M80-5000000M1-04-333-00-000)
+M80-5000000M1-04-333-00-000
+1.1!U 2.1!U 3.1!U 4.1!U 

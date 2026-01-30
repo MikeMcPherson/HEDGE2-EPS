@@ -1,0 +1,19 @@
+.G125-MH104M4-04AD000P :1 ;Gecko-MT: 4+4 Pos Plug Right-Angle THT Connector Screw-Lok Board Mount
+G125MH104M404AD000P
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=A1 6=A2 7=A3 8=A4 9=MH1 10=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="A1" 6="A2" 7="A3" 8="A4" 9="MH1" 10="MH2"
+*MXP 10
+*DFN G125-MH104M4-04AD000P
+~!Manufacturer_Name (Harwin)
+~!Manufacturer_Part_Number (G125-MH104M4-04AD000P)
+~!Mouser Part Number (855-G125MH14M44AD00P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Harwin/G125-MH104M4-04AD000P?qs=Y0Uzf4wQF3nR%252B22z%252BtmrYQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://content.harwin.com/m/91a65d72bc24bdea/original/DRG-03150-Technical-Drawing-Datasheet-G125-MH1XXM4-XXAD000P-pdf.pdf)
+~!Height (5.25mm)
+~!3D_Model (G125-MH104M4-04AD000P)
+G125-MH104M4-04AD000P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

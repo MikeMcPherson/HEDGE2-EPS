@@ -1,4 +1,4 @@
-26661120752736950
+26664660219548145
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62460,6 +62460,20 @@ BAT_1043
 0
 2
 2
+HEDGE2-EPS
+G125MH104M404AD000P
+G125-MH104M4-04AD000P-1
+Connector
+0
+10
+10
+HEDGE2-EPS
+M805000000M10433300000
+M80-5000000M1-04-333-00-000-4
+Connector
+0
+4
+4
 HEDGE2-EPS
 MCP2518FDT-E_SL
 SOIC

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'M80_5000000M1_04_333_00_000'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "M80-5000000M1-04-333-00-000" (!) = "", "M805000000M10433300000", "Other", "855-0000M10433300000", "https://www.mouser.co.uk/ProductDetail/Harwin/M80-5000000M1-04-333-00-000?qs=W0yvOO0ixfE%252By8HRXG%252B6Ng%3D%3D", "", "", "Datamate Mix-Tek: 4 Pos Plug SIL Right-Angle 3.5mm THT Power Connector Jackscrews", "https://content.harwin.com/m/3dd0c935a279b32/original/DRG-01214-Technical-Drawing-Datasheet-M80-5000000M1-XX-XXX-00-000-pdf.pdf", "6 mm"
+END_PART
+
+END.
