@@ -1,0 +1,18 @@
+.SS-5D :1 ;Subminiature Basic Switch,  125VAC, 5A, SPDT, Pin Plunger, OF:max. 1.47N, PCB Terminal
+SS5D
+*STM S
+*NGS
+*PLB 1="COM" 2="NO" 3="NC"
+*MXP 3
+*DFN SS-5D
+~!Manufacturer_Name (OMRON Electronics)
+~!Manufacturer_Part_Number (SS-5D)
+~!Mouser Part Number (653-SS-5D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Omron-Electronics/SS-5D/?qs=pWf36BUtxBh%252BlIUjzjOszg%3D%3D)
+~!Arrow Part Number (SS-5D)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ss5d/omron?region=europe)
+~!Link Datasheet (https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/B032-E1.pdf)
+~!Height (11.9mm)
+~!3D_Model (SS-5D)
+SS-5D
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS_5D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "OMRON Electronics", "SS-5D" (!) = "", "SS5D", "Other", "653-SS-5D", "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/SS-5D/?qs=pWf36BUtxBh%252BlIUjzjOszg%3D%3D", "SS-5D", "https://www.arrow.com/en/products/ss5d/omron?region=europe", "Subminiature Basic Switch,  125VAC, 5A, SPDT, Pin Plunger, OF:max. 1.47N, PCB Terminal", "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/B032-E1.pdf", "11.9 mm"
+END_PART
+
+END.

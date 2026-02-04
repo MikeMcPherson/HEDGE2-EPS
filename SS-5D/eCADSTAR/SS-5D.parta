@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_1016095"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-22-09:58:08)
+    (utime 2026-01-12-15:47:12)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SS-5D")
+)
+
+
+(pinAssign "ECS_1016095"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-22-09:58:08)
+    (utime 2026-01-12-15:47:12)
+    (interface
+        (port "1" (symbPinId 1) (portName "COM") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NC") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1016095")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SS-5D")
+)
+
+
+(part "SS-5D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-22-09:58:08)
+    (utime 2026-01-12-15:47:12)
+    (packageRef "SS-5D")
+    (pinAssignRef "ECS_1016095")
+    (interface
+        (port "1" (symbPinId 1) (portName "COM") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NO") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NC") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "Subminiature Basic Switch,  125VAC, 5A, SPDT, Pin Plunger, OF:max. 1.47N, PCB Terminal")
+    (property "Manufacturer_Name" "OMRON Electronics")
+    (property "Manufacturer_Part_Number" "SS-5D")
+    (property "Mouser_Part_Number" "653-SS-5D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/SS-5D/?qs=pWf36BUtxBh%252BlIUjzjOszg%3D%3D")
+    (property "Arrow_Part_Number" "SS-5D")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ss5d/omron?region=europe")
+    (property "Datasheet_Link" "https://components.omron.com/us-en/sites/components.omron.com.us/files/datasheet_pdf/B032-E1.pdf")
+    (property "compAreaTopHeight" 11.9)
+)
+
+

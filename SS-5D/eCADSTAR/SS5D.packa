@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS-5D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-06-17:41:15)
+    (mountForm default
+        (footprintRef "SS5D")
+        (spec "System")
+    )
+)

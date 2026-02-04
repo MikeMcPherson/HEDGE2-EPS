@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SS5D"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SS5D")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=OMRON Electronics
+PartNumber=SS-5D
+PartCategory=Switch
+PackageCategory=Other
+PinCount=3
+Version=3.1
+Released=2019-01-22 09:58:08
+Downloaded=2026-02-03 20:15:24
+3D=Y
