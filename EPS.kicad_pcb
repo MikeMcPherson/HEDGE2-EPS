@@ -21561,7 +21561,7 @@
 			(uuid "36551ff4-b745-467b-a80e-865546945c50")
 		)
 		(embedded_fonts no)
-		(model "TPS22997RYZR.stp"
+		(model "${KIPRJMOD}/TPS22997RYZR/3D/TPS22997RYZR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
