@@ -1,0 +1,85 @@
+{
+    "interface": "custom",
+    "channel_a": 1,
+    "channel_b": 2,
+    "node_id": 4,
+    "heartbeat_period": 0.5,
+    "max_miss_heartbeat": 5,
+    "use_packets": true,
+
+    "parameters": [
+        {
+            "parameter_id": 1,
+            "parameter_name": "BATT_V",
+            "comment": "Main Battery Voltage from INA260",
+            "encoding": "f",
+            "value": 0.0
+        },
+        {
+            "parameter_id": 2,
+            "parameter_name": "BATT_I",
+            "comment": "Main Battery Current from INA260",
+            "encoding": "f",
+            "value": 0.0
+        },
+        {
+            "parameter_id": 3,
+            "parameter_name": "OBC_I",
+            "comment": "OBC Load Switch Current",
+            "encoding": "f",
+            "value": 0.0
+        }
+    ],
+    "housekeeping_reports": [
+        {
+            "report_id": 1,
+            "comment": "Standard EPS Telemetry Report",
+            "interval": 1,
+            "enabled": true,
+            "parameter_ids": [1, 2, 3]
+        }
+    ],
+    "functions": [
+        {
+            "function_id": 1,
+            "function_name": "Power-cycle PCB",
+            "comment": "Power-on reset PCB",
+            "arguments": [
+                {
+                    "argument_id": 1,
+                    "argument_name": "CAN ID of PCB to reset",
+                    "encoding": "B"
+                }
+            ]
+        },
+        {
+            "function_id": 2,
+            "function_name": "Power-on PCB",
+            "comment": "Apply power to PCB",
+            "arguments": [
+                {
+                    "argument_id": 1,
+                    "argument_name": "CAN ID of PCB to power on",
+                    "encoding": "B"
+                }
+            ]
+        },
+        {
+            "function_id": 3,
+            "function_name": "Power-off PCB",
+            "comment": "Remove power from PCB",
+            "arguments": [
+                {
+                    "argument_id": 1,
+                    "argument_name": "CAN ID of PCB to power off",
+                    "encoding": "B"
+                }
+            ]
+        },
+        {
+            "function_id": 255,
+            "function_name": "SAFE spacecraft",
+            "comment": "Restore spacecraft to SAFE mode"
+        }
+    ]
+}
